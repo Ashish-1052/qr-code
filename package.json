@@ -1,18 +1,26 @@
 {
   "dependencies": {
     "fs": "^0.0.1-security",
-    "inquirer": "^9.2.16",
+    "inquirer": "^9.3.8",
     "qr-image": "^3.2.0"
   },
   "name": "2.4-qr-code-project",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
-  "devDependencies": {},
+  "types": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ashish Kedari",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashish-1052/qr-code.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ashish-1052/qr-code/issues"
+  },
+  "homepage": "https://github.com/Ashish-1052/qr-code#readme"
 }
